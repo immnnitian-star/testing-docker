@@ -32,7 +32,7 @@ jobs:
 
     - name: "build successful"
       run: echo "Build Succeeded!" 
-test:
+  test:
 
     runs-on: ubuntu-latest
 
